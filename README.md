@@ -4,6 +4,8 @@
 
 Cette page résume quelques commandes Git utiles.
 
+:collision::collision::collision:
+
 Lien vers la documentation Github "Git Cheat Sheet": https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf 
 
 ## Liste de commandes utiles
@@ -31,3 +33,5 @@ Liste des paramètres:
 GitHub pour Windows | GitHub pour Mac
 --- | ---
 htps://windows.github.com | htps://mac.github.com
+
+:sparkling_heart::sparkling_heart::sparkling_heart::sparkling_heart:
