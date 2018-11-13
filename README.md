@@ -10,7 +10,7 @@ Lien vers la documentation Github "Git Cheat Sheet": https://services.github.com
 
 ### init
 Permet d'initialiser un dépôt Git
-'''git
+```
 git init
-'''
+```
 
