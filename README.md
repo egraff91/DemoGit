@@ -6,9 +6,9 @@ Cette page résume quelques commandes Git utile.
 
 Lien vers la documentation Github "Git Cheat Sheet": https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf 
 
-##Liste de commandes utiles
+## Liste de commandes utiles
 
-###init
+### init
 Permet d'initialiser un dépôt Git
 '''git
 git init
