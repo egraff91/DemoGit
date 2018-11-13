@@ -1,6 +1,6 @@
 ![alt text](https://cdn-images-1.medium.com/max/1397/1*yGFvyglXcEt-ZOV3IWQTdw.jpeg "Logo Git")
 
-# DepotGit
+# DemoGit
 
 Cette page résume quelques commandes Git utiles.
 
