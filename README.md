@@ -23,6 +23,12 @@ Créé un instantané des modification
 ```
 git commit - m "Message du commit"
 ```
-Liste des paramètres
+Liste des paramètres:
 1. -a: permet de lancer la commande "add" avec le commit
 2. -m: permet d'écrire le message directement dans la commande
+
+## Clients GIT
+Vous permet de profiter d'une interface graphique pour la gestion de vos dépôt.
+GitHub pour Windows | GitHub pour Mac
+--- | ---
+htps://windows.github.com | htps://mac.github.com
