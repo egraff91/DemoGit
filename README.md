@@ -28,7 +28,6 @@ Liste des paramètres:
 2. -m: permet d'écrire le message directement dans la commande
 
 ## Clients GIT
-Vous permet de profiter d'une interface graphique pour la gestion de vos dépôt.*
 GitHub pour Windows | GitHub pour Mac
 --- | ---
 htps://windows.github.com | htps://mac.github.com
